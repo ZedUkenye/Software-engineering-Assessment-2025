@@ -1,0 +1,7 @@
+ The rule to creatinhg branches such as naming conventions example like feature, bud fix and relase.
+main is our stable code.
+Each new feature would have a branch such as feature/user-authentication.Write naming rule for branches, such as naming schemes (for example, feature/, bugfix/, release/).
+Ensure that the whole team is aware to always branch off main (or create, depending on your method) for a new feature.
+For example, a bugfix branch might be named bugfix/fix-login-error.
+Delete a branch after it has been merged into main (or the corresponding branch).
+This can be done automatically on GitHub or done manually through the Git interface or GitHub UI.
